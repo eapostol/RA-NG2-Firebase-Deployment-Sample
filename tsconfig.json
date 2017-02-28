@@ -7,8 +7,12 @@
     "moduleResolution": "node",
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
+    "target": "ES6",
     "lib": [
-      "es2016"
+      "ES2016"
     ]
-  }
+  },
+  "exclude": [
+    "node_modules"
+  ]
 }
