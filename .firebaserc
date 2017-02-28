@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "ra-ng2rc0-tour-of-heroes",
+    "default": "ra-ng2rc0-tour-of-heroes"
+  }
+}
